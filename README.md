@@ -96,12 +96,12 @@ full_numpy_bitmap_book
 ### 수정 후 ```class_names.txt``` 파일 내용
 
 ```
-사과
-도끼
-바나나
-야구배트
-꿀벌
-책
+apple
+axe
+banana
+baseball bat
+bee
+book
 ```
 
 <br>
