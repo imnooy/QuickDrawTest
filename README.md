@@ -56,7 +56,7 @@ jupyter notebook  // 주피터 노트북 실행
 
 ## 5. 데이터 구성
 
-a. clone 받은 폴더 안에 data 폴더 만들기
+a. clone 받은 폴더 안에 data 폴더 만들기  
 b. [데이터셋](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)에서 학습시키고자 하는 .npy 파일들을 ```/data```폴더 안에 넣기
 
 <br>
